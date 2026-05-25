@@ -8,7 +8,7 @@ from backend import qualificar_lead, recomendar_imoveis, ESTOQUE
 @st.cache_data(ttl=3600)
 def obter_resultado_completo(texto):
     qualificacao = qualificar_lead(texto)
-    recomendacoes = recomendar_imoveis(texto, estoque)
+    recomendacoes = recomendar_imoveis(texto, ESTOQUE)
     return {**qualificacao, "recomendacoes": recomendacoes}
 
 # --- INTERFACE ---

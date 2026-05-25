@@ -1,26 +1,23 @@
 import streamlit as st
-# Importa suas funções do seu arquivo backend
-from backend import processar_lead, salvar_lead_csv, caminho_arquivo 
+import os
+from backend import processar_lead, salvar_lead_csv
 
-st.set_page_config(page_title="Qualificador de Leads", page_icon="🚀")
+# Configura a API Key vinda dos Secrets do Streamlit
+os.environ["GOOGLE_API_KEY"] = st.secrets["GOOGLE_API_KEY"]
 
 st.title("🚀 Qualificador de Leads Imobiliários")
-st.write("Cole a mensagem do lead abaixo para classificar e salvar.")
 
-# Entrada de dados
-texto_usuario = st.text_area("Mensagem do Lead:", height=150)
+texto_usuario = st.text_area("Cole a mensagem do lead aqui:")
 
 if st.button("Analisar Lead"):
     if texto_usuario:
-        with st.spinner('Analisando com IA...'):
-            # Chama a lógica que já criamos
+        with st.spinner('IA analisando...'):
             resultado = processar_lead(texto_usuario)
-            salvar_lead_csv(resultado, caminho_arquivo)
+            salvar_lead_csv(resultado)
             
-            # Exibe os resultados na tela
-            st.success("Lead processado!")
+            st.success("Análise concluída!")
             st.metric("Score", resultado['score'])
-            st.info(f"**Temperatura:** {resultado['temperatura']}")
+            st.write(f"**Temperatura:** {resultado['temperatura']}")
             st.write(f"**Dossiê:** {resultado['dossie']}")
     else:
-        st.warning("Por favor, digite uma mensagem.")
+        st.warning("Por favor, digite algo.")

@@ -1,5 +1,5 @@
 import streamlit as st
-from backend import qualificar_lead, recomendar_imoveis,
+from backend import qualificar_lead, recomendar_imoveis
 # Restante do seu código segue igual...
 
 # --- OTIMIZAÇÃO: CACHE ---

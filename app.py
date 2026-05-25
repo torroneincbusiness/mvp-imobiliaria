@@ -1,13 +1,12 @@
 import streamlit as st
 from backend import qualificar_lead, recomendar_imoveis
-# Restante do seu código segue igual...
 
 # --- OTIMIZAÇÃO: CACHE ---
-# O cache processa apenas uma vez por mensagem, economizando API
 @st.cache_data(ttl=3600)
 def obter_resultado_completo(texto):
     qualificacao = qualificar_lead(texto)
-    recomendacoes = recomendar_imoveis(texto,)
+    # CORREÇÃO 1: Removi a vírgula extra aqui
+    recomendacoes = recomendar_imoveis(texto) 
     return {**qualificacao, "recomendacoes": recomendacoes}
 
 # --- INTERFACE ---
@@ -35,8 +34,11 @@ if st.button("Analisar Lead"):
                 
                 # Exibindo Recomendações
                 st.subheader("Imóveis Sugeridos:")
-                for item in res['recomendacoes']:
-                    st.write(f"✅ {item}")
+                
+                # CORREÇÃO 2: Acessando a chave 'sugestoes' que vem do JSON da IA
+                for item in res['recomendacoes']['sugestoes']:
+                    st.write(f"✅ **{item['titulo']}**")
+                    st.write(f"💡 *{item['justificativa']}*")
                     
             except Exception as e:
                 st.error(f"Erro ao processar: {e}")

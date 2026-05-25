@@ -1,6 +1,5 @@
 import streamlit as st
-from backend import qualificar_lead, recomendar_imoveis, ESTOQUE
-
+from backend import qualificar_lead, recomendar_imoveis,
 # Restante do seu código segue igual...
 
 # --- OTIMIZAÇÃO: CACHE ---
@@ -8,7 +7,7 @@ from backend import qualificar_lead, recomendar_imoveis, ESTOQUE
 @st.cache_data(ttl=3600)
 def obter_resultado_completo(texto):
     qualificacao = qualificar_lead(texto)
-    recomendacoes = recomendar_imoveis(texto, ESTOQUE)
+    recomendacoes = recomendar_imoveis(texto,)
     return {**qualificacao, "recomendacoes": recomendacoes}
 
 # --- INTERFACE ---

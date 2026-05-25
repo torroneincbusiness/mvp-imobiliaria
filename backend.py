@@ -9,10 +9,8 @@ genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 model = genai.GenerativeModel('gemini-3.5-flash')
 
 # 2. Estoque (Nome em MAIÚSCULO para importar corretamente)
-ESTOQUE = [
-    {"id": 1, "titulo": "Apto com Varanda Gourmet", "tags": ["varanda", "escritorio"], "preco": 450000},
-    {"id": 2, "titulo": "Studio compacto", "tags": ["compacto"], "preco": 250000},
-    {"id": 3, "titulo": "Cobertura Luxo", "tags": ["varanda", "piscina", "luxo", "cobertura"], "preco": 900000}
+ESTOQUE = [pd.read_csv("imoveis_sp.csv")
+   
 ]
 
 # 3. Schema

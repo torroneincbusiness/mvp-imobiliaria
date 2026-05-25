@@ -82,4 +82,35 @@ def processar_lead(texto_usuario):
         "temperatura": temperatura,
         "dados_extraidos": dados,
         "dossie": f"Motivo: {dados['motivo_mudanca']} | Sugestões: {', '.join(sugestoes) if sugestoes else 'Nenhuma'}"
-    }
+    # --- Adicione esta nova função ---
+def recomendar_imoveis(texto_usuario, estoque_disponivel):
+    """
+    Motor de Recomendação (Concierge)
+    Focado apenas em cruzar o desejo do cliente com o estoque.
+    """
+    
+    prompt = f"""
+    Você é um corretor especializado. Analise o desejo do cliente: '{texto_usuario}'
+    
+    Estoque disponível para recomendação:
+    {json.dumps(estoque_disponivel)}
+    
+    Sua missão:
+    1. Selecione os 4 imóveis do estoque que melhor atendem ao que o cliente descreveu.
+    2. Para cada um, escreva uma frase curta justificando por que ele é ideal.
+    
+    Retorne apenas um JSON:
+    {{
+        "sugestoes": [
+            {{"titulo": "Nome do Imóvel", "justificativa": "Por que combina com o cliente?"}}
+        ]
+    }}
+    """
+    
+    # Chama a API com o novo schema
+    response = model.generate_content(
+        prompt,
+        generation_config={"response_mime_type": "application/json"}
+    )
+    
+    return json.loads(response.text)

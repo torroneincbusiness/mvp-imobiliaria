@@ -1,36 +1,43 @@
 import streamlit as st
-import os
-from backend import processar_lead
-
-# O garçom busca a chave do cofre (Secrets)
-# Se der erro aqui, verifique se no Streamlit Cloud, em 'Settings', 
-# você adicionou a 'GOOGLE_API_KEY' na seção 'Secrets'.
-os.environ["GOOGLE_API_KEY"] = st.secrets["GOOGLE_API_KEY"]
+from backend import qualificar_lead, recomendar_imoveis, ESTOQUE
 
 # --- OTIMIZAÇÃO: CACHE ---
-# O cache impede que o site chame a IA várias vezes com a mesma pergunta,
-# economizando sua cota da API e evitando o erro de "ResourceExhausted"
-@st.cache_data(ttl=3600) 
-def processar_lead_cached(texto):
-    return processar_lead(texto)
+# O cache processa apenas uma vez por mensagem, economizando API
+@st.cache_data(ttl=3600)
+def obter_resultado_completo(texto):
+    qualificacao = qualificar_lead(texto)
+    recomendacoes = recomendar_imoveis(texto, ESTOQUE)
+    return {**qualificacao, "recomendacoes": recomendacoes}
 
 # --- INTERFACE ---
-st.title("🚀 Qualificador de Leads")
+st.set_page_config(page_title="Qualificador Imobiliário", layout="centered")
+st.title("🚀 Qualificador de Leads Inteligente")
 texto = st.text_area("Cole a mensagem do lead aqui:")
 
 if st.button("Analisar Lead"):
     if texto:
-        with st.spinner('IA analisando...'):
+        with st.spinner('O Concierge está analisando o pedido...'):
             try:
-                # Chamamos a função que tem o cache
-                resultado = processar_lead_cached(texto)
+                # Processamento unificado
+                res = obter_resultado_completo(texto)
                 
                 # Exibindo os resultados
                 st.success("Análise concluída!")
-                st.metric("Score", resultado['score'])
-                st.write(f"**Temperatura:** {resultado['temperatura']}")
-                st.write(f"**Dossiê:** {resultado['dossie']}")
+                
+                # Coluna de Score
+                col1, col2 = st.columns(2)
+                col1.metric("Score de Venda", res['score'])
+                col2.write(f"**Temperatura:** {res['temperatura']}")
+                
+                st.markdown("---")
+                st.write(f"**Análise do Gerente:** {res['analise']}")
+                
+                # Exibindo Recomendações
+                st.subheader("Imóveis Sugeridos:")
+                for item in res['recomendacoes']:
+                    st.write(f"✅ {item}")
+                    
             except Exception as e:
-                st.error(f"Ocorreu um erro ao processar: {e}")
+                st.error(f"Erro ao processar: {e}")
     else:
         st.warning("Por favor, cole a mensagem do lead antes de analisar.")

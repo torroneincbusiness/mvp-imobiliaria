@@ -9,8 +9,7 @@ from typing import List
 # Não precisa de drive, vamos apenas pegar a chave
 api_key = os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=api_key)
-model = genai.GenerativeModel('gemini-1.5-flash')
-
+model_name="gemini-3.5-flash",
 # 2. Estrutura de Dados
 class LeadScoring(BaseModel):
     motivo_mudanca: str

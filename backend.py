@@ -7,7 +7,7 @@ from typing import List
 # 1. Configuração
 api_key = os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=api_key)
-model = genai.GenerativeModel('gemini-1.5-flash')
+model = genai.GenerativeModel('gemini-3.5-flash')
 
 # 2. Estoque (Aqui você pode adicionar mais imóveis depois)
 estoque = [

@@ -1,23 +1,14 @@
 import streamlit as st
 import os
-from backend import processar_lead, salvar_lead_csv
+from backend import processar_lead
 
-# Configura a API Key vinda dos Secrets do Streamlit
+# O garçom busca a chave do cofre (Secrets)
 os.environ["GOOGLE_API_KEY"] = st.secrets["GOOGLE_API_KEY"]
 
-st.title("🚀 Qualificador de Leads Imobiliários")
+st.title("Qualificador de Leads")
+texto = st.text_area("Cole a mensagem do lead:")
 
-texto_usuario = st.text_area("Cole a mensagem do lead aqui:")
-
-if st.button("Analisar Lead"):
-    if texto_usuario:
-        with st.spinner('IA analisando...'):
-            resultado = processar_lead(texto_usuario)
-            salvar_lead_csv(resultado)
-            
-            st.success("Análise concluída!")
-            st.metric("Score", resultado['score'])
-            st.write(f"**Temperatura:** {resultado['temperatura']}")
-            st.write(f"**Dossiê:** {resultado['dossie']}")
-    else:
-        st.warning("Por favor, digite algo.")
+if st.button("Analisar"):
+    resultado = processar_lead(texto)
+    st.write(f"Score: {resultado['score']}")
+    st.write(f"Dossiê: {resultado['dossie']}")

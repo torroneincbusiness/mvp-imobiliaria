@@ -1,0 +1,1001 @@
+id,bairro,titulo,preco,tags,descricao_longa
+1,Itaim Bibi,Imóvel 1 em Pinheiros,2011169,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+2,Jardins,Imóvel 2 em Jardins,1700031,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+3,Itaim Bibi,Imóvel 3 em Jardins,2026999,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+4,Vila Mariana,Imóvel 4 em Jardins,1119409,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+5,Pinheiros,Imóvel 5 em Jardins,343643,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+6,Pinheiros,Imóvel 6 em Pinheiros,1938200,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+7,Moema,Imóvel 7 em Moema,1983482,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+8,Moema,Imóvel 8 em Vila Mariana,1368514,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+9,Itaim Bibi,Imóvel 9 em Moema,976545,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+10,Vila Mariana,Imóvel 10 em Moema,1186493,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+11,Itaim Bibi,Imóvel 11 em Moema,2085420,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+12,Moema,Imóvel 12 em Moema,737530,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+13,Moema,Imóvel 13 em Pinheiros,2194446,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+14,Pinheiros,Imóvel 14 em Pinheiros,814114,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+15,Itaim Bibi,Imóvel 15 em Moema,2282214,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+16,Itaim Bibi,Imóvel 16 em Vila Mariana,486599,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+17,Vila Mariana,Imóvel 17 em Pinheiros,2488764,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+18,Itaim Bibi,Imóvel 18 em Pinheiros,2711607,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+19,Moema,Imóvel 19 em Jardins,336306,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+20,Vila Mariana,Imóvel 20 em Jardins,1105941,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+21,Vila Mariana,Imóvel 21 em Moema,887704,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+22,Jardins,Imóvel 22 em Pinheiros,1478668,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+23,Pinheiros,Imóvel 23 em Vila Mariana,2061536,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+24,Vila Mariana,Imóvel 24 em Moema,1332261,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+25,Vila Mariana,Imóvel 25 em Jardins,636018,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+26,Pinheiros,Imóvel 26 em Itaim Bibi,851471,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+27,Itaim Bibi,Imóvel 27 em Jardins,2212441,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+28,Itaim Bibi,Imóvel 28 em Jardins,2943815,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+29,Itaim Bibi,Imóvel 29 em Itaim Bibi,745251,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+30,Jardins,Imóvel 30 em Moema,2933744,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+31,Vila Mariana,Imóvel 31 em Jardins,1390577,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+32,Moema,Imóvel 32 em Moema,2504568,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+33,Vila Mariana,Imóvel 33 em Jardins,1708528,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+34,Moema,Imóvel 34 em Moema,735619,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+35,Pinheiros,Imóvel 35 em Pinheiros,546271,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+36,Moema,Imóvel 36 em Vila Mariana,735192,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+37,Pinheiros,Imóvel 37 em Pinheiros,1527133,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+38,Vila Mariana,Imóvel 38 em Vila Mariana,2705483,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+39,Itaim Bibi,Imóvel 39 em Jardins,926062,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+40,Itaim Bibi,Imóvel 40 em Itaim Bibi,2018444,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+41,Jardins,Imóvel 41 em Itaim Bibi,2317368,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+42,Itaim Bibi,Imóvel 42 em Pinheiros,2998451,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+43,Pinheiros,Imóvel 43 em Vila Mariana,2069946,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+44,Moema,Imóvel 44 em Vila Mariana,1193643,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+45,Jardins,Imóvel 45 em Itaim Bibi,1894978,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+46,Jardins,Imóvel 46 em Pinheiros,2887058,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+47,Vila Mariana,Imóvel 47 em Moema,2720377,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+48,Itaim Bibi,Imóvel 48 em Vila Mariana,1743547,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+49,Jardins,Imóvel 49 em Jardins,1176307,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+50,Pinheiros,Imóvel 50 em Moema,1405669,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+51,Jardins,Imóvel 51 em Jardins,1004641,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+52,Pinheiros,Imóvel 52 em Moema,955980,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+53,Itaim Bibi,Imóvel 53 em Jardins,1769628,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+54,Pinheiros,Imóvel 54 em Pinheiros,375620,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+55,Jardins,Imóvel 55 em Moema,690401,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+56,Jardins,Imóvel 56 em Vila Mariana,2642537,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+57,Moema,Imóvel 57 em Pinheiros,1464455,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+58,Vila Mariana,Imóvel 58 em Vila Mariana,1084391,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+59,Vila Mariana,Imóvel 59 em Vila Mariana,2006042,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+60,Itaim Bibi,Imóvel 60 em Vila Mariana,2821480,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+61,Itaim Bibi,Imóvel 61 em Jardins,348632,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+62,Itaim Bibi,Imóvel 62 em Jardins,1338627,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+63,Vila Mariana,Imóvel 63 em Vila Mariana,855715,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+64,Pinheiros,Imóvel 64 em Itaim Bibi,2158252,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+65,Jardins,Imóvel 65 em Moema,896289,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+66,Jardins,Imóvel 66 em Itaim Bibi,2307472,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+67,Jardins,Imóvel 67 em Moema,1332667,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+68,Itaim Bibi,Imóvel 68 em Itaim Bibi,1180052,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+69,Moema,Imóvel 69 em Moema,2448893,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+70,Moema,Imóvel 70 em Vila Mariana,1695451,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+71,Itaim Bibi,Imóvel 71 em Moema,1437249,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+72,Moema,Imóvel 72 em Itaim Bibi,2608710,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+73,Pinheiros,Imóvel 73 em Jardins,2618146,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+74,Itaim Bibi,Imóvel 74 em Itaim Bibi,341514,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+75,Itaim Bibi,Imóvel 75 em Pinheiros,827230,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+76,Vila Mariana,Imóvel 76 em Itaim Bibi,2271193,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+77,Pinheiros,Imóvel 77 em Moema,2492536,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+78,Pinheiros,Imóvel 78 em Pinheiros,1398012,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+79,Moema,Imóvel 79 em Itaim Bibi,1707164,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+80,Vila Mariana,Imóvel 80 em Vila Mariana,2504031,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+81,Vila Mariana,Imóvel 81 em Itaim Bibi,2797402,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+82,Vila Mariana,Imóvel 82 em Jardins,930290,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+83,Itaim Bibi,Imóvel 83 em Moema,2931444,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+84,Itaim Bibi,Imóvel 84 em Jardins,2376798,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+85,Itaim Bibi,Imóvel 85 em Itaim Bibi,2756394,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+86,Pinheiros,Imóvel 86 em Jardins,967186,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+87,Vila Mariana,Imóvel 87 em Vila Mariana,2525236,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+88,Itaim Bibi,Imóvel 88 em Vila Mariana,1036049,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+89,Vila Mariana,Imóvel 89 em Jardins,868070,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+90,Moema,Imóvel 90 em Pinheiros,2378495,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+91,Pinheiros,Imóvel 91 em Jardins,2762470,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+92,Pinheiros,Imóvel 92 em Itaim Bibi,563349,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+93,Itaim Bibi,Imóvel 93 em Itaim Bibi,2382209,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+94,Moema,Imóvel 94 em Pinheiros,2700527,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+95,Itaim Bibi,Imóvel 95 em Vila Mariana,411390,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+96,Jardins,Imóvel 96 em Itaim Bibi,1608351,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+97,Moema,Imóvel 97 em Jardins,1425181,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+98,Moema,Imóvel 98 em Moema,2497965,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+99,Pinheiros,Imóvel 99 em Moema,2974797,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+100,Itaim Bibi,Imóvel 100 em Pinheiros,2762771,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+101,Moema,Imóvel 101 em Moema,2429817,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+102,Jardins,Imóvel 102 em Pinheiros,1747110,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+103,Pinheiros,Imóvel 103 em Jardins,1898666,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+104,Itaim Bibi,Imóvel 104 em Moema,1534222,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+105,Vila Mariana,Imóvel 105 em Vila Mariana,2309801,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+106,Moema,Imóvel 106 em Itaim Bibi,768319,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+107,Itaim Bibi,Imóvel 107 em Pinheiros,1682421,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+108,Jardins,Imóvel 108 em Jardins,683319,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+109,Pinheiros,Imóvel 109 em Jardins,360867,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+110,Pinheiros,Imóvel 110 em Jardins,2578120,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+111,Itaim Bibi,Imóvel 111 em Jardins,1156026,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+112,Pinheiros,Imóvel 112 em Itaim Bibi,2992618,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+113,Jardins,Imóvel 113 em Jardins,1751586,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+114,Itaim Bibi,Imóvel 114 em Itaim Bibi,1086948,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+115,Pinheiros,Imóvel 115 em Jardins,2454762,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+116,Pinheiros,Imóvel 116 em Moema,1140223,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+117,Vila Mariana,Imóvel 117 em Pinheiros,333281,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+118,Moema,Imóvel 118 em Vila Mariana,2184955,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+119,Vila Mariana,Imóvel 119 em Moema,2475176,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+120,Vila Mariana,Imóvel 120 em Moema,2636304,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+121,Pinheiros,Imóvel 121 em Itaim Bibi,485043,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+122,Pinheiros,Imóvel 122 em Jardins,1669183,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+123,Jardins,Imóvel 123 em Jardins,684118,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+124,Itaim Bibi,Imóvel 124 em Pinheiros,945389,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+125,Jardins,Imóvel 125 em Pinheiros,1185409,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+126,Itaim Bibi,Imóvel 126 em Itaim Bibi,1179548,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+127,Jardins,Imóvel 127 em Jardins,1342035,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+128,Itaim Bibi,Imóvel 128 em Moema,2784185,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+129,Moema,Imóvel 129 em Moema,1138638,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+130,Jardins,Imóvel 130 em Pinheiros,1017937,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+131,Vila Mariana,Imóvel 131 em Moema,2953982,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+132,Pinheiros,Imóvel 132 em Pinheiros,1006649,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+133,Pinheiros,Imóvel 133 em Itaim Bibi,417257,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+134,Vila Mariana,Imóvel 134 em Vila Mariana,1548076,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+135,Itaim Bibi,Imóvel 135 em Jardins,1631340,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+136,Moema,Imóvel 136 em Jardins,1483083,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+137,Moema,Imóvel 137 em Itaim Bibi,430335,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+138,Pinheiros,Imóvel 138 em Pinheiros,1781126,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+139,Itaim Bibi,Imóvel 139 em Jardins,2680889,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+140,Pinheiros,Imóvel 140 em Jardins,908587,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+141,Vila Mariana,Imóvel 141 em Jardins,470969,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+142,Vila Mariana,Imóvel 142 em Itaim Bibi,1886487,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+143,Pinheiros,Imóvel 143 em Vila Mariana,1579881,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+144,Itaim Bibi,Imóvel 144 em Pinheiros,1671479,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+145,Jardins,Imóvel 145 em Vila Mariana,1758208,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+146,Pinheiros,Imóvel 146 em Itaim Bibi,2867212,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+147,Itaim Bibi,Imóvel 147 em Vila Mariana,747506,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+148,Jardins,Imóvel 148 em Pinheiros,2510996,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+149,Vila Mariana,Imóvel 149 em Pinheiros,2424949,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+150,Jardins,Imóvel 150 em Vila Mariana,1435798,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+151,Jardins,Imóvel 151 em Moema,322115,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+152,Pinheiros,Imóvel 152 em Jardins,2680808,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+153,Vila Mariana,Imóvel 153 em Jardins,317636,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+154,Pinheiros,Imóvel 154 em Itaim Bibi,1640151,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+155,Moema,Imóvel 155 em Pinheiros,2972226,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+156,Moema,Imóvel 156 em Pinheiros,1000729,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+157,Jardins,Imóvel 157 em Vila Mariana,1129088,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+158,Itaim Bibi,Imóvel 158 em Moema,2196161,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+159,Itaim Bibi,Imóvel 159 em Pinheiros,1982993,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+160,Moema,Imóvel 160 em Jardins,2034171,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+161,Moema,Imóvel 161 em Pinheiros,2262767,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+162,Vila Mariana,Imóvel 162 em Vila Mariana,1464166,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+163,Itaim Bibi,Imóvel 163 em Itaim Bibi,2623600,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+164,Moema,Imóvel 164 em Moema,2058867,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+165,Jardins,Imóvel 165 em Jardins,2414659,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+166,Moema,Imóvel 166 em Pinheiros,1144062,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+167,Pinheiros,Imóvel 167 em Moema,2515051,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+168,Moema,Imóvel 168 em Jardins,345412,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+169,Pinheiros,Imóvel 169 em Vila Mariana,880169,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+170,Vila Mariana,Imóvel 170 em Moema,2290993,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+171,Itaim Bibi,Imóvel 171 em Itaim Bibi,2449768,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+172,Jardins,Imóvel 172 em Jardins,1512817,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+173,Pinheiros,Imóvel 173 em Vila Mariana,593691,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+174,Jardins,Imóvel 174 em Pinheiros,2746177,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+175,Itaim Bibi,Imóvel 175 em Moema,764657,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+176,Itaim Bibi,Imóvel 176 em Jardins,1427712,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+177,Jardins,Imóvel 177 em Itaim Bibi,2099917,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+178,Pinheiros,Imóvel 178 em Vila Mariana,2048855,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+179,Moema,Imóvel 179 em Moema,620798,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+180,Pinheiros,Imóvel 180 em Itaim Bibi,1211116,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+181,Jardins,Imóvel 181 em Itaim Bibi,694924,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+182,Vila Mariana,Imóvel 182 em Pinheiros,724700,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+183,Moema,Imóvel 183 em Vila Mariana,1571106,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+184,Vila Mariana,Imóvel 184 em Moema,2526892,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+185,Moema,Imóvel 185 em Pinheiros,1247339,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+186,Pinheiros,Imóvel 186 em Moema,2835870,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+187,Vila Mariana,Imóvel 187 em Jardins,2425793,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+188,Itaim Bibi,Imóvel 188 em Jardins,1478186,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+189,Jardins,Imóvel 189 em Vila Mariana,978144,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+190,Vila Mariana,Imóvel 190 em Pinheiros,2209935,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+191,Itaim Bibi,Imóvel 191 em Pinheiros,1810468,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+192,Vila Mariana,Imóvel 192 em Jardins,1868800,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+193,Jardins,Imóvel 193 em Moema,611863,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+194,Moema,Imóvel 194 em Jardins,356215,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+195,Itaim Bibi,Imóvel 195 em Vila Mariana,1006206,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+196,Jardins,Imóvel 196 em Itaim Bibi,1740708,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+197,Itaim Bibi,Imóvel 197 em Vila Mariana,1925564,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+198,Jardins,Imóvel 198 em Jardins,629973,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+199,Jardins,Imóvel 199 em Pinheiros,544959,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+200,Pinheiros,Imóvel 200 em Vila Mariana,1526354,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+201,Pinheiros,Imóvel 201 em Jardins,411450,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+202,Jardins,Imóvel 202 em Moema,1686999,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+203,Vila Mariana,Imóvel 203 em Itaim Bibi,1545803,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+204,Jardins,Imóvel 204 em Jardins,2794638,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+205,Pinheiros,Imóvel 205 em Vila Mariana,2274371,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+206,Jardins,Imóvel 206 em Moema,1314836,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+207,Moema,Imóvel 207 em Pinheiros,442314,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+208,Jardins,Imóvel 208 em Itaim Bibi,1246636,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+209,Vila Mariana,Imóvel 209 em Moema,613227,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+210,Jardins,Imóvel 210 em Itaim Bibi,1650174,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+211,Vila Mariana,Imóvel 211 em Itaim Bibi,2755324,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+212,Jardins,Imóvel 212 em Vila Mariana,2580897,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+213,Pinheiros,Imóvel 213 em Pinheiros,2778288,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+214,Pinheiros,Imóvel 214 em Itaim Bibi,1220592,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+215,Vila Mariana,Imóvel 215 em Vila Mariana,2775648,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+216,Jardins,Imóvel 216 em Vila Mariana,841412,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+217,Jardins,Imóvel 217 em Itaim Bibi,2731511,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+218,Pinheiros,Imóvel 218 em Moema,1518834,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+219,Moema,Imóvel 219 em Pinheiros,1752740,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+220,Moema,Imóvel 220 em Pinheiros,1556444,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+221,Pinheiros,Imóvel 221 em Pinheiros,692183,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+222,Pinheiros,Imóvel 222 em Pinheiros,1118501,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+223,Itaim Bibi,Imóvel 223 em Vila Mariana,1752633,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+224,Itaim Bibi,Imóvel 224 em Moema,2428750,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+225,Moema,Imóvel 225 em Vila Mariana,1132207,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+226,Itaim Bibi,Imóvel 226 em Pinheiros,2433610,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+227,Vila Mariana,Imóvel 227 em Itaim Bibi,2551778,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+228,Itaim Bibi,Imóvel 228 em Moema,2863713,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+229,Itaim Bibi,Imóvel 229 em Moema,1853082,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+230,Pinheiros,Imóvel 230 em Vila Mariana,1362814,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+231,Vila Mariana,Imóvel 231 em Pinheiros,1224627,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+232,Moema,Imóvel 232 em Moema,806676,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+233,Pinheiros,Imóvel 233 em Itaim Bibi,2480576,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+234,Jardins,Imóvel 234 em Moema,1637485,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+235,Vila Mariana,Imóvel 235 em Vila Mariana,2360165,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+236,Jardins,Imóvel 236 em Vila Mariana,2801566,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+237,Pinheiros,Imóvel 237 em Moema,1873676,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+238,Jardins,Imóvel 238 em Itaim Bibi,783646,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+239,Pinheiros,Imóvel 239 em Moema,1223391,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+240,Pinheiros,Imóvel 240 em Vila Mariana,2438932,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+241,Pinheiros,Imóvel 241 em Pinheiros,461469,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+242,Itaim Bibi,Imóvel 242 em Pinheiros,722781,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+243,Pinheiros,Imóvel 243 em Itaim Bibi,2691265,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+244,Vila Mariana,Imóvel 244 em Vila Mariana,1371228,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+245,Jardins,Imóvel 245 em Itaim Bibi,1916958,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+246,Jardins,Imóvel 246 em Moema,2462979,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+247,Itaim Bibi,Imóvel 247 em Pinheiros,2512053,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+248,Itaim Bibi,Imóvel 248 em Moema,1520789,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+249,Pinheiros,Imóvel 249 em Vila Mariana,399019,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+250,Itaim Bibi,Imóvel 250 em Vila Mariana,1683281,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+251,Vila Mariana,Imóvel 251 em Moema,2227430,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+252,Vila Mariana,Imóvel 252 em Moema,2905069,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+253,Vila Mariana,Imóvel 253 em Pinheiros,1628084,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+254,Pinheiros,Imóvel 254 em Vila Mariana,1004104,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+255,Itaim Bibi,Imóvel 255 em Moema,2598201,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+256,Itaim Bibi,Imóvel 256 em Jardins,2806693,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+257,Pinheiros,Imóvel 257 em Vila Mariana,1748521,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+258,Moema,Imóvel 258 em Itaim Bibi,1763494,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+259,Pinheiros,Imóvel 259 em Vila Mariana,2570904,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+260,Pinheiros,Imóvel 260 em Pinheiros,2234615,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+261,Moema,Imóvel 261 em Vila Mariana,436515,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+262,Jardins,Imóvel 262 em Moema,2593188,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+263,Jardins,Imóvel 263 em Vila Mariana,516051,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+264,Itaim Bibi,Imóvel 264 em Itaim Bibi,2582540,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+265,Itaim Bibi,Imóvel 265 em Itaim Bibi,1160793,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+266,Itaim Bibi,Imóvel 266 em Moema,1470810,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+267,Vila Mariana,Imóvel 267 em Moema,393718,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+268,Jardins,Imóvel 268 em Moema,1809879,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+269,Pinheiros,Imóvel 269 em Itaim Bibi,927002,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+270,Itaim Bibi,Imóvel 270 em Pinheiros,1696835,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+271,Pinheiros,Imóvel 271 em Moema,1760009,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+272,Jardins,Imóvel 272 em Pinheiros,2540088,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+273,Moema,Imóvel 273 em Moema,778116,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+274,Vila Mariana,Imóvel 274 em Jardins,1489490,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+275,Jardins,Imóvel 275 em Pinheiros,2481956,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+276,Itaim Bibi,Imóvel 276 em Itaim Bibi,1625051,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+277,Itaim Bibi,Imóvel 277 em Moema,1723594,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+278,Vila Mariana,Imóvel 278 em Vila Mariana,1158968,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+279,Moema,Imóvel 279 em Pinheiros,2138306,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+280,Itaim Bibi,Imóvel 280 em Itaim Bibi,1670217,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+281,Moema,Imóvel 281 em Itaim Bibi,979541,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+282,Pinheiros,Imóvel 282 em Moema,1385961,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+283,Pinheiros,Imóvel 283 em Itaim Bibi,2473176,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+284,Itaim Bibi,Imóvel 284 em Jardins,2407654,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+285,Pinheiros,Imóvel 285 em Jardins,1097334,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+286,Jardins,Imóvel 286 em Pinheiros,607557,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+287,Pinheiros,Imóvel 287 em Vila Mariana,1620187,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+288,Jardins,Imóvel 288 em Itaim Bibi,1199149,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+289,Moema,Imóvel 289 em Vila Mariana,1591402,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+290,Pinheiros,Imóvel 290 em Vila Mariana,1784986,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+291,Itaim Bibi,Imóvel 291 em Pinheiros,1086079,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+292,Moema,Imóvel 292 em Pinheiros,1470752,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+293,Itaim Bibi,Imóvel 293 em Vila Mariana,1365906,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+294,Itaim Bibi,Imóvel 294 em Vila Mariana,688235,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+295,Vila Mariana,Imóvel 295 em Itaim Bibi,2046751,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+296,Vila Mariana,Imóvel 296 em Itaim Bibi,1866855,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+297,Itaim Bibi,Imóvel 297 em Itaim Bibi,1316693,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+298,Pinheiros,Imóvel 298 em Moema,2632131,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+299,Jardins,Imóvel 299 em Jardins,757351,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+300,Itaim Bibi,Imóvel 300 em Vila Mariana,2383304,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+301,Pinheiros,Imóvel 301 em Jardins,2319734,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+302,Itaim Bibi,Imóvel 302 em Moema,741891,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+303,Pinheiros,Imóvel 303 em Moema,2495831,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+304,Vila Mariana,Imóvel 304 em Jardins,912029,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+305,Itaim Bibi,Imóvel 305 em Pinheiros,1128802,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+306,Moema,Imóvel 306 em Vila Mariana,2285404,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+307,Itaim Bibi,Imóvel 307 em Pinheiros,2034624,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+308,Jardins,Imóvel 308 em Pinheiros,679198,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+309,Vila Mariana,Imóvel 309 em Itaim Bibi,2034791,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+310,Jardins,Imóvel 310 em Moema,988938,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+311,Itaim Bibi,Imóvel 311 em Pinheiros,2200589,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+312,Vila Mariana,Imóvel 312 em Pinheiros,386232,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+313,Moema,Imóvel 313 em Itaim Bibi,515042,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+314,Vila Mariana,Imóvel 314 em Vila Mariana,1825385,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+315,Moema,Imóvel 315 em Vila Mariana,734390,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+316,Moema,Imóvel 316 em Moema,1991314,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+317,Vila Mariana,Imóvel 317 em Pinheiros,2808591,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+318,Jardins,Imóvel 318 em Itaim Bibi,2539364,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+319,Itaim Bibi,Imóvel 319 em Itaim Bibi,1014872,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+320,Jardins,Imóvel 320 em Moema,2570844,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+321,Itaim Bibi,Imóvel 321 em Moema,2349852,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+322,Vila Mariana,Imóvel 322 em Pinheiros,1759938,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+323,Jardins,Imóvel 323 em Jardins,914736,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+324,Itaim Bibi,Imóvel 324 em Vila Mariana,1927414,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+325,Jardins,Imóvel 325 em Pinheiros,1093316,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+326,Vila Mariana,Imóvel 326 em Jardins,443706,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+327,Itaim Bibi,Imóvel 327 em Vila Mariana,779698,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+328,Vila Mariana,Imóvel 328 em Pinheiros,2064422,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+329,Itaim Bibi,Imóvel 329 em Jardins,1455239,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+330,Moema,Imóvel 330 em Vila Mariana,311655,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+331,Vila Mariana,Imóvel 331 em Vila Mariana,2541531,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+332,Itaim Bibi,Imóvel 332 em Vila Mariana,2361457,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+333,Itaim Bibi,Imóvel 333 em Vila Mariana,1645852,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+334,Vila Mariana,Imóvel 334 em Jardins,1729381,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+335,Itaim Bibi,Imóvel 335 em Moema,350837,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+336,Jardins,Imóvel 336 em Vila Mariana,457892,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+337,Pinheiros,Imóvel 337 em Pinheiros,812032,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+338,Itaim Bibi,Imóvel 338 em Vila Mariana,2551555,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+339,Pinheiros,Imóvel 339 em Moema,2436970,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+340,Itaim Bibi,Imóvel 340 em Pinheiros,1153677,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+341,Itaim Bibi,Imóvel 341 em Jardins,1265110,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+342,Moema,Imóvel 342 em Moema,848592,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+343,Moema,Imóvel 343 em Itaim Bibi,2311214,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+344,Jardins,Imóvel 344 em Itaim Bibi,1481506,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+345,Pinheiros,Imóvel 345 em Itaim Bibi,1839500,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+346,Moema,Imóvel 346 em Itaim Bibi,1572940,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+347,Vila Mariana,Imóvel 347 em Jardins,568974,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+348,Pinheiros,Imóvel 348 em Itaim Bibi,1870259,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+349,Jardins,Imóvel 349 em Moema,1253050,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+350,Moema,Imóvel 350 em Vila Mariana,1026270,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+351,Itaim Bibi,Imóvel 351 em Itaim Bibi,2210898,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+352,Jardins,Imóvel 352 em Itaim Bibi,2111553,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+353,Itaim Bibi,Imóvel 353 em Moema,1081162,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+354,Jardins,Imóvel 354 em Pinheiros,1912679,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+355,Moema,Imóvel 355 em Moema,2030652,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+356,Moema,Imóvel 356 em Moema,2951029,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+357,Itaim Bibi,Imóvel 357 em Itaim Bibi,1050218,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+358,Jardins,Imóvel 358 em Moema,2334680,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+359,Pinheiros,Imóvel 359 em Jardins,1077429,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+360,Itaim Bibi,Imóvel 360 em Pinheiros,1478232,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+361,Moema,Imóvel 361 em Pinheiros,2584048,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+362,Pinheiros,Imóvel 362 em Vila Mariana,2622279,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+363,Moema,Imóvel 363 em Vila Mariana,1176372,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+364,Itaim Bibi,Imóvel 364 em Pinheiros,1423865,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+365,Jardins,Imóvel 365 em Moema,1837697,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+366,Moema,Imóvel 366 em Moema,1935383,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+367,Pinheiros,Imóvel 367 em Pinheiros,2034796,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+368,Itaim Bibi,Imóvel 368 em Jardins,748748,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+369,Itaim Bibi,Imóvel 369 em Itaim Bibi,1652467,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+370,Itaim Bibi,Imóvel 370 em Itaim Bibi,1267996,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+371,Jardins,Imóvel 371 em Pinheiros,806550,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+372,Vila Mariana,Imóvel 372 em Vila Mariana,2050771,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+373,Jardins,Imóvel 373 em Moema,2633740,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+374,Pinheiros,Imóvel 374 em Moema,1020521,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+375,Moema,Imóvel 375 em Moema,2035903,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+376,Jardins,Imóvel 376 em Vila Mariana,2775508,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+377,Itaim Bibi,Imóvel 377 em Itaim Bibi,548727,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+378,Jardins,Imóvel 378 em Jardins,2384377,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+379,Pinheiros,Imóvel 379 em Pinheiros,1082860,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+380,Itaim Bibi,Imóvel 380 em Itaim Bibi,1733782,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+381,Vila Mariana,Imóvel 381 em Jardins,2164500,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+382,Moema,Imóvel 382 em Itaim Bibi,2215229,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+383,Itaim Bibi,Imóvel 383 em Vila Mariana,435828,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+384,Moema,Imóvel 384 em Itaim Bibi,1919461,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+385,Vila Mariana,Imóvel 385 em Itaim Bibi,1705619,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+386,Moema,Imóvel 386 em Vila Mariana,1078231,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+387,Moema,Imóvel 387 em Pinheiros,2620779,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+388,Pinheiros,Imóvel 388 em Itaim Bibi,2450586,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+389,Jardins,Imóvel 389 em Itaim Bibi,1514655,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+390,Pinheiros,Imóvel 390 em Vila Mariana,1892842,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+391,Pinheiros,Imóvel 391 em Jardins,690969,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+392,Moema,Imóvel 392 em Itaim Bibi,2992931,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+393,Vila Mariana,Imóvel 393 em Pinheiros,2947500,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+394,Jardins,Imóvel 394 em Pinheiros,626006,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+395,Itaim Bibi,Imóvel 395 em Itaim Bibi,2611922,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+396,Moema,Imóvel 396 em Jardins,574269,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+397,Jardins,Imóvel 397 em Vila Mariana,347188,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+398,Itaim Bibi,Imóvel 398 em Jardins,2377327,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+399,Vila Mariana,Imóvel 399 em Vila Mariana,1369318,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+400,Itaim Bibi,Imóvel 400 em Pinheiros,2204308,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+401,Vila Mariana,Imóvel 401 em Itaim Bibi,316745,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+402,Itaim Bibi,Imóvel 402 em Moema,1995029,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+403,Jardins,Imóvel 403 em Moema,2156139,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+404,Moema,Imóvel 404 em Itaim Bibi,2591062,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+405,Moema,Imóvel 405 em Moema,2842043,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+406,Vila Mariana,Imóvel 406 em Vila Mariana,2357517,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+407,Pinheiros,Imóvel 407 em Pinheiros,1246439,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+408,Vila Mariana,Imóvel 408 em Moema,1081457,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+409,Pinheiros,Imóvel 409 em Itaim Bibi,1679387,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+410,Vila Mariana,Imóvel 410 em Itaim Bibi,2132531,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+411,Jardins,Imóvel 411 em Itaim Bibi,2340742,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+412,Vila Mariana,Imóvel 412 em Itaim Bibi,1948146,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+413,Moema,Imóvel 413 em Jardins,1976475,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+414,Pinheiros,Imóvel 414 em Itaim Bibi,2489703,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+415,Jardins,Imóvel 415 em Jardins,1606492,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+416,Jardins,Imóvel 416 em Itaim Bibi,1937702,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+417,Jardins,Imóvel 417 em Pinheiros,2990909,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+418,Moema,Imóvel 418 em Vila Mariana,1357991,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+419,Jardins,Imóvel 419 em Vila Mariana,1886444,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+420,Moema,Imóvel 420 em Itaim Bibi,1901868,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+421,Pinheiros,Imóvel 421 em Moema,794755,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+422,Moema,Imóvel 422 em Itaim Bibi,2308763,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+423,Moema,Imóvel 423 em Pinheiros,1333374,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+424,Moema,Imóvel 424 em Itaim Bibi,1635209,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+425,Jardins,Imóvel 425 em Moema,2729465,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+426,Jardins,Imóvel 426 em Moema,2659628,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+427,Vila Mariana,Imóvel 427 em Vila Mariana,1324032,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+428,Moema,Imóvel 428 em Pinheiros,2239848,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+429,Moema,Imóvel 429 em Jardins,1828419,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+430,Moema,Imóvel 430 em Moema,1038087,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+431,Itaim Bibi,Imóvel 431 em Vila Mariana,1842493,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+432,Pinheiros,Imóvel 432 em Moema,1752270,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+433,Itaim Bibi,Imóvel 433 em Itaim Bibi,1710101,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+434,Vila Mariana,Imóvel 434 em Vila Mariana,2616125,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+435,Itaim Bibi,Imóvel 435 em Pinheiros,1859043,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+436,Pinheiros,Imóvel 436 em Itaim Bibi,2681350,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+437,Pinheiros,Imóvel 437 em Vila Mariana,1502616,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+438,Moema,Imóvel 438 em Itaim Bibi,663059,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+439,Pinheiros,Imóvel 439 em Moema,1627189,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+440,Jardins,Imóvel 440 em Pinheiros,1665331,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+441,Moema,Imóvel 441 em Jardins,376486,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+442,Jardins,Imóvel 442 em Vila Mariana,2909912,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+443,Moema,Imóvel 443 em Jardins,676461,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+444,Pinheiros,Imóvel 444 em Pinheiros,2699748,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+445,Pinheiros,Imóvel 445 em Itaim Bibi,2164118,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+446,Moema,Imóvel 446 em Vila Mariana,2896491,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+447,Itaim Bibi,Imóvel 447 em Pinheiros,591988,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+448,Vila Mariana,Imóvel 448 em Itaim Bibi,727573,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+449,Jardins,Imóvel 449 em Itaim Bibi,969373,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+450,Vila Mariana,Imóvel 450 em Itaim Bibi,2631940,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+451,Pinheiros,Imóvel 451 em Moema,575830,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+452,Vila Mariana,Imóvel 452 em Jardins,2430537,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+453,Moema,Imóvel 453 em Pinheiros,2307064,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+454,Itaim Bibi,Imóvel 454 em Vila Mariana,2117078,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+455,Moema,Imóvel 455 em Pinheiros,315700,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+456,Vila Mariana,Imóvel 456 em Moema,1196037,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+457,Itaim Bibi,Imóvel 457 em Itaim Bibi,447779,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+458,Jardins,Imóvel 458 em Itaim Bibi,1521509,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+459,Pinheiros,Imóvel 459 em Vila Mariana,2070205,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+460,Itaim Bibi,Imóvel 460 em Moema,625365,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+461,Vila Mariana,Imóvel 461 em Itaim Bibi,2033817,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+462,Jardins,Imóvel 462 em Itaim Bibi,351608,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+463,Vila Mariana,Imóvel 463 em Itaim Bibi,1642992,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+464,Vila Mariana,Imóvel 464 em Pinheiros,2177318,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+465,Vila Mariana,Imóvel 465 em Itaim Bibi,2180926,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+466,Jardins,Imóvel 466 em Moema,2158714,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+467,Itaim Bibi,Imóvel 467 em Itaim Bibi,2619056,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+468,Jardins,Imóvel 468 em Moema,641325,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+469,Moema,Imóvel 469 em Moema,2470724,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+470,Jardins,Imóvel 470 em Itaim Bibi,2525095,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+471,Jardins,Imóvel 471 em Jardins,1878023,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+472,Jardins,Imóvel 472 em Moema,1124933,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+473,Moema,Imóvel 473 em Itaim Bibi,1914187,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+474,Jardins,Imóvel 474 em Jardins,1150058,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+475,Pinheiros,Imóvel 475 em Jardins,1160496,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+476,Itaim Bibi,Imóvel 476 em Jardins,1222157,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+477,Jardins,Imóvel 477 em Vila Mariana,653783,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+478,Itaim Bibi,Imóvel 478 em Itaim Bibi,841347,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+479,Jardins,Imóvel 479 em Vila Mariana,705469,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+480,Pinheiros,Imóvel 480 em Vila Mariana,846431,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+481,Pinheiros,Imóvel 481 em Jardins,1023201,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+482,Pinheiros,Imóvel 482 em Jardins,326093,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+483,Pinheiros,Imóvel 483 em Vila Mariana,2788984,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+484,Pinheiros,Imóvel 484 em Jardins,2696835,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+485,Jardins,Imóvel 485 em Jardins,1737195,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+486,Vila Mariana,Imóvel 486 em Moema,924905,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+487,Vila Mariana,Imóvel 487 em Itaim Bibi,638947,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+488,Pinheiros,Imóvel 488 em Jardins,1851058,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+489,Pinheiros,Imóvel 489 em Vila Mariana,2108332,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+490,Pinheiros,Imóvel 490 em Pinheiros,311121,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+491,Moema,Imóvel 491 em Itaim Bibi,1996232,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+492,Jardins,Imóvel 492 em Pinheiros,1234161,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+493,Itaim Bibi,Imóvel 493 em Moema,844966,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+494,Itaim Bibi,Imóvel 494 em Moema,2102243,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+495,Vila Mariana,Imóvel 495 em Moema,1981602,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+496,Jardins,Imóvel 496 em Moema,2835259,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+497,Itaim Bibi,Imóvel 497 em Moema,1590680,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+498,Vila Mariana,Imóvel 498 em Jardins,2956566,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+499,Vila Mariana,Imóvel 499 em Vila Mariana,1153573,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+500,Itaim Bibi,Imóvel 500 em Vila Mariana,472124,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+501,Itaim Bibi,Imóvel 501 em Moema,565957,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+502,Vila Mariana,Imóvel 502 em Itaim Bibi,701097,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+503,Moema,Imóvel 503 em Itaim Bibi,2954749,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+504,Vila Mariana,Imóvel 504 em Jardins,1651114,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+505,Jardins,Imóvel 505 em Pinheiros,2569496,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+506,Jardins,Imóvel 506 em Pinheiros,1346938,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+507,Itaim Bibi,Imóvel 507 em Itaim Bibi,2769947,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+508,Vila Mariana,Imóvel 508 em Vila Mariana,2783175,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+509,Jardins,Imóvel 509 em Pinheiros,1083095,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+510,Itaim Bibi,Imóvel 510 em Itaim Bibi,1342981,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+511,Moema,Imóvel 511 em Vila Mariana,311274,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+512,Jardins,Imóvel 512 em Itaim Bibi,859678,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+513,Moema,Imóvel 513 em Itaim Bibi,1598594,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+514,Moema,Imóvel 514 em Itaim Bibi,1841400,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+515,Jardins,Imóvel 515 em Pinheiros,2494153,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+516,Pinheiros,Imóvel 516 em Moema,2259974,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+517,Moema,Imóvel 517 em Jardins,2214736,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+518,Vila Mariana,Imóvel 518 em Moema,2017626,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+519,Vila Mariana,Imóvel 519 em Moema,1999223,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+520,Pinheiros,Imóvel 520 em Jardins,1374369,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+521,Vila Mariana,Imóvel 521 em Vila Mariana,2334297,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+522,Moema,Imóvel 522 em Itaim Bibi,1815637,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+523,Jardins,Imóvel 523 em Vila Mariana,2892793,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+524,Jardins,Imóvel 524 em Vila Mariana,897567,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+525,Pinheiros,Imóvel 525 em Moema,705218,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+526,Vila Mariana,Imóvel 526 em Jardins,1060673,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+527,Vila Mariana,Imóvel 527 em Moema,2183709,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+528,Jardins,Imóvel 528 em Moema,511619,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+529,Moema,Imóvel 529 em Vila Mariana,2209653,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+530,Pinheiros,Imóvel 530 em Itaim Bibi,2643580,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+531,Vila Mariana,Imóvel 531 em Itaim Bibi,603171,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+532,Jardins,Imóvel 532 em Itaim Bibi,2219110,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+533,Jardins,Imóvel 533 em Vila Mariana,2432899,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+534,Itaim Bibi,Imóvel 534 em Itaim Bibi,2266392,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+535,Vila Mariana,Imóvel 535 em Jardins,2973220,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+536,Pinheiros,Imóvel 536 em Moema,1071615,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+537,Moema,Imóvel 537 em Jardins,2928568,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+538,Vila Mariana,Imóvel 538 em Moema,2103461,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+539,Itaim Bibi,Imóvel 539 em Moema,2816621,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+540,Moema,Imóvel 540 em Pinheiros,2892463,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+541,Moema,Imóvel 541 em Jardins,1499242,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+542,Jardins,Imóvel 542 em Jardins,488673,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+543,Pinheiros,Imóvel 543 em Itaim Bibi,1219564,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+544,Pinheiros,Imóvel 544 em Moema,2040841,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+545,Vila Mariana,Imóvel 545 em Moema,2150890,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+546,Vila Mariana,Imóvel 546 em Moema,813813,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+547,Vila Mariana,Imóvel 547 em Moema,2735837,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+548,Moema,Imóvel 548 em Moema,365952,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+549,Itaim Bibi,Imóvel 549 em Moema,2575144,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+550,Vila Mariana,Imóvel 550 em Moema,1618731,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+551,Moema,Imóvel 551 em Itaim Bibi,314235,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+552,Itaim Bibi,Imóvel 552 em Itaim Bibi,2808680,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+553,Jardins,Imóvel 553 em Itaim Bibi,728383,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+554,Vila Mariana,Imóvel 554 em Vila Mariana,2382939,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+555,Jardins,Imóvel 555 em Itaim Bibi,927373,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+556,Jardins,Imóvel 556 em Moema,2300566,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+557,Jardins,Imóvel 557 em Pinheiros,1367078,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+558,Moema,Imóvel 558 em Pinheiros,498908,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+559,Vila Mariana,Imóvel 559 em Itaim Bibi,1769803,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+560,Jardins,Imóvel 560 em Jardins,2259904,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+561,Pinheiros,Imóvel 561 em Pinheiros,436421,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+562,Jardins,Imóvel 562 em Moema,484583,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+563,Moema,Imóvel 563 em Pinheiros,2564512,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+564,Vila Mariana,Imóvel 564 em Vila Mariana,1464172,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+565,Pinheiros,Imóvel 565 em Moema,1964450,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+566,Vila Mariana,Imóvel 566 em Vila Mariana,1364529,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+567,Itaim Bibi,Imóvel 567 em Pinheiros,2561055,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+568,Itaim Bibi,Imóvel 568 em Itaim Bibi,2577212,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+569,Vila Mariana,Imóvel 569 em Pinheiros,1932179,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+570,Moema,Imóvel 570 em Jardins,2532792,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+571,Jardins,Imóvel 571 em Itaim Bibi,2673032,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+572,Moema,Imóvel 572 em Itaim Bibi,924110,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+573,Moema,Imóvel 573 em Pinheiros,791639,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+574,Moema,Imóvel 574 em Moema,817446,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+575,Itaim Bibi,Imóvel 575 em Itaim Bibi,1308002,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+576,Moema,Imóvel 576 em Jardins,2468867,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+577,Pinheiros,Imóvel 577 em Moema,2435907,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+578,Itaim Bibi,Imóvel 578 em Vila Mariana,2529969,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+579,Itaim Bibi,Imóvel 579 em Moema,1777883,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+580,Jardins,Imóvel 580 em Pinheiros,2852625,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+581,Itaim Bibi,Imóvel 581 em Pinheiros,1304778,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+582,Moema,Imóvel 582 em Pinheiros,674265,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+583,Vila Mariana,Imóvel 583 em Moema,1771250,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+584,Pinheiros,Imóvel 584 em Itaim Bibi,1864243,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+585,Moema,Imóvel 585 em Itaim Bibi,475029,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+586,Jardins,Imóvel 586 em Itaim Bibi,851841,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+587,Moema,Imóvel 587 em Pinheiros,2833480,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+588,Moema,Imóvel 588 em Pinheiros,2550333,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+589,Itaim Bibi,Imóvel 589 em Moema,1291957,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+590,Pinheiros,Imóvel 590 em Jardins,1134305,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+591,Itaim Bibi,Imóvel 591 em Itaim Bibi,1205195,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+592,Jardins,Imóvel 592 em Jardins,1788682,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+593,Itaim Bibi,Imóvel 593 em Vila Mariana,1837980,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+594,Jardins,Imóvel 594 em Pinheiros,466336,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+595,Itaim Bibi,Imóvel 595 em Itaim Bibi,773287,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+596,Moema,Imóvel 596 em Vila Mariana,2087666,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+597,Pinheiros,Imóvel 597 em Vila Mariana,2480730,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+598,Moema,Imóvel 598 em Jardins,452037,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+599,Itaim Bibi,Imóvel 599 em Jardins,2139328,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+600,Vila Mariana,Imóvel 600 em Jardins,1791020,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+601,Jardins,Imóvel 601 em Pinheiros,729703,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+602,Jardins,Imóvel 602 em Vila Mariana,1268979,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+603,Pinheiros,Imóvel 603 em Moema,916265,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+604,Vila Mariana,Imóvel 604 em Moema,2822717,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+605,Itaim Bibi,Imóvel 605 em Vila Mariana,2138374,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+606,Jardins,Imóvel 606 em Moema,1204552,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+607,Moema,Imóvel 607 em Pinheiros,660863,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+608,Itaim Bibi,Imóvel 608 em Itaim Bibi,520769,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+609,Jardins,Imóvel 609 em Moema,561178,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+610,Moema,Imóvel 610 em Jardins,824740,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+611,Itaim Bibi,Imóvel 611 em Jardins,2807131,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+612,Itaim Bibi,Imóvel 612 em Pinheiros,2958851,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+613,Vila Mariana,Imóvel 613 em Vila Mariana,467176,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+614,Pinheiros,Imóvel 614 em Moema,2206840,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+615,Moema,Imóvel 615 em Pinheiros,565937,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+616,Vila Mariana,Imóvel 616 em Itaim Bibi,453655,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+617,Pinheiros,Imóvel 617 em Jardins,2719410,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+618,Jardins,Imóvel 618 em Vila Mariana,1540713,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+619,Pinheiros,Imóvel 619 em Pinheiros,2914004,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+620,Moema,Imóvel 620 em Vila Mariana,912366,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+621,Pinheiros,Imóvel 621 em Itaim Bibi,2226880,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+622,Itaim Bibi,Imóvel 622 em Pinheiros,1564497,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+623,Pinheiros,Imóvel 623 em Vila Mariana,1897962,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+624,Moema,Imóvel 624 em Moema,2171214,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+625,Jardins,Imóvel 625 em Vila Mariana,535396,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+626,Itaim Bibi,Imóvel 626 em Itaim Bibi,1175976,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+627,Vila Mariana,Imóvel 627 em Pinheiros,893098,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+628,Itaim Bibi,Imóvel 628 em Vila Mariana,1523636,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+629,Itaim Bibi,Imóvel 629 em Moema,895404,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+630,Vila Mariana,Imóvel 630 em Vila Mariana,2852656,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+631,Jardins,Imóvel 631 em Itaim Bibi,2423971,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+632,Moema,Imóvel 632 em Jardins,2958534,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+633,Moema,Imóvel 633 em Itaim Bibi,369079,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+634,Moema,Imóvel 634 em Pinheiros,1100912,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+635,Jardins,Imóvel 635 em Moema,1501641,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+636,Pinheiros,Imóvel 636 em Jardins,2690962,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+637,Pinheiros,Imóvel 637 em Moema,1490490,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+638,Pinheiros,Imóvel 638 em Jardins,856101,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+639,Pinheiros,Imóvel 639 em Moema,920121,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+640,Vila Mariana,Imóvel 640 em Jardins,2425659,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+641,Moema,Imóvel 641 em Vila Mariana,457269,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+642,Vila Mariana,Imóvel 642 em Pinheiros,2631912,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+643,Pinheiros,Imóvel 643 em Vila Mariana,563708,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+644,Moema,Imóvel 644 em Jardins,1050378,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+645,Itaim Bibi,Imóvel 645 em Pinheiros,879251,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+646,Itaim Bibi,Imóvel 646 em Pinheiros,2523880,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+647,Itaim Bibi,Imóvel 647 em Vila Mariana,393510,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+648,Itaim Bibi,Imóvel 648 em Jardins,793363,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+649,Itaim Bibi,Imóvel 649 em Itaim Bibi,2845007,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+650,Itaim Bibi,Imóvel 650 em Moema,2064782,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+651,Jardins,Imóvel 651 em Moema,1992177,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+652,Pinheiros,Imóvel 652 em Jardins,2654188,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+653,Vila Mariana,Imóvel 653 em Pinheiros,885507,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+654,Jardins,Imóvel 654 em Itaim Bibi,656574,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+655,Vila Mariana,Imóvel 655 em Moema,2434655,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+656,Itaim Bibi,Imóvel 656 em Pinheiros,1627175,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+657,Itaim Bibi,Imóvel 657 em Vila Mariana,1209075,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+658,Moema,Imóvel 658 em Vila Mariana,1580191,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+659,Pinheiros,Imóvel 659 em Jardins,2779741,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+660,Jardins,Imóvel 660 em Pinheiros,2357966,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+661,Itaim Bibi,Imóvel 661 em Jardins,1279503,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+662,Vila Mariana,Imóvel 662 em Jardins,2721734,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+663,Vila Mariana,Imóvel 663 em Moema,1479870,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+664,Jardins,Imóvel 664 em Moema,2317230,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+665,Moema,Imóvel 665 em Moema,2660104,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+666,Jardins,Imóvel 666 em Pinheiros,2698934,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+667,Jardins,Imóvel 667 em Itaim Bibi,2846724,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+668,Jardins,Imóvel 668 em Pinheiros,1505395,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+669,Moema,Imóvel 669 em Vila Mariana,2929324,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+670,Moema,Imóvel 670 em Pinheiros,1884836,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+671,Vila Mariana,Imóvel 671 em Vila Mariana,2566259,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+672,Itaim Bibi,Imóvel 672 em Moema,610304,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+673,Itaim Bibi,Imóvel 673 em Jardins,710498,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+674,Moema,Imóvel 674 em Pinheiros,2627972,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+675,Pinheiros,Imóvel 675 em Vila Mariana,2469617,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+676,Pinheiros,Imóvel 676 em Moema,649435,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+677,Vila Mariana,Imóvel 677 em Jardins,1050153,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+678,Pinheiros,Imóvel 678 em Itaim Bibi,1938753,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+679,Jardins,Imóvel 679 em Vila Mariana,1792441,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+680,Jardins,Imóvel 680 em Pinheiros,1654783,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+681,Jardins,Imóvel 681 em Vila Mariana,381373,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+682,Itaim Bibi,Imóvel 682 em Jardins,1862083,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+683,Jardins,Imóvel 683 em Pinheiros,1537196,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+684,Itaim Bibi,Imóvel 684 em Vila Mariana,2746081,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+685,Moema,Imóvel 685 em Moema,660970,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+686,Moema,Imóvel 686 em Jardins,1637422,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+687,Jardins,Imóvel 687 em Jardins,882510,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+688,Vila Mariana,Imóvel 688 em Vila Mariana,2277034,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+689,Jardins,Imóvel 689 em Pinheiros,2159766,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+690,Vila Mariana,Imóvel 690 em Vila Mariana,2197150,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+691,Moema,Imóvel 691 em Vila Mariana,2980297,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+692,Jardins,Imóvel 692 em Moema,2895805,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+693,Itaim Bibi,Imóvel 693 em Moema,810927,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+694,Itaim Bibi,Imóvel 694 em Itaim Bibi,2633499,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+695,Itaim Bibi,Imóvel 695 em Pinheiros,2866379,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+696,Pinheiros,Imóvel 696 em Vila Mariana,509004,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+697,Pinheiros,Imóvel 697 em Moema,988658,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+698,Vila Mariana,Imóvel 698 em Vila Mariana,830764,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+699,Vila Mariana,Imóvel 699 em Vila Mariana,1515613,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+700,Itaim Bibi,Imóvel 700 em Moema,1875876,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+701,Jardins,Imóvel 701 em Vila Mariana,738823,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+702,Pinheiros,Imóvel 702 em Moema,463811,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+703,Moema,Imóvel 703 em Moema,514482,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+704,Jardins,Imóvel 704 em Moema,1367004,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+705,Jardins,Imóvel 705 em Itaim Bibi,1623140,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+706,Moema,Imóvel 706 em Vila Mariana,1659845,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+707,Pinheiros,Imóvel 707 em Moema,2395885,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+708,Jardins,Imóvel 708 em Moema,2490322,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+709,Itaim Bibi,Imóvel 709 em Pinheiros,2072495,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+710,Pinheiros,Imóvel 710 em Jardins,1283107,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+711,Itaim Bibi,Imóvel 711 em Moema,2895003,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+712,Jardins,Imóvel 712 em Itaim Bibi,913489,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+713,Moema,Imóvel 713 em Vila Mariana,1865215,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+714,Itaim Bibi,Imóvel 714 em Vila Mariana,2920980,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+715,Pinheiros,Imóvel 715 em Moema,503057,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+716,Jardins,Imóvel 716 em Pinheiros,1614356,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+717,Itaim Bibi,Imóvel 717 em Itaim Bibi,2593172,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+718,Moema,Imóvel 718 em Pinheiros,2660264,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+719,Pinheiros,Imóvel 719 em Vila Mariana,2581767,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+720,Pinheiros,Imóvel 720 em Itaim Bibi,871415,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+721,Jardins,Imóvel 721 em Itaim Bibi,1520841,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+722,Pinheiros,Imóvel 722 em Jardins,1791868,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+723,Pinheiros,Imóvel 723 em Pinheiros,976064,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+724,Itaim Bibi,Imóvel 724 em Pinheiros,2658341,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+725,Vila Mariana,Imóvel 725 em Jardins,1226856,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+726,Jardins,Imóvel 726 em Pinheiros,860645,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+727,Jardins,Imóvel 727 em Pinheiros,2488786,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+728,Jardins,Imóvel 728 em Jardins,562680,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+729,Itaim Bibi,Imóvel 729 em Itaim Bibi,1326588,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+730,Vila Mariana,Imóvel 730 em Itaim Bibi,1319090,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+731,Moema,Imóvel 731 em Jardins,1019191,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+732,Moema,Imóvel 732 em Pinheiros,1337308,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+733,Itaim Bibi,Imóvel 733 em Jardins,1272267,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+734,Itaim Bibi,Imóvel 734 em Vila Mariana,1153737,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+735,Pinheiros,Imóvel 735 em Itaim Bibi,885200,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+736,Jardins,Imóvel 736 em Vila Mariana,1256867,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+737,Moema,Imóvel 737 em Moema,2481236,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+738,Itaim Bibi,Imóvel 738 em Moema,1814056,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+739,Itaim Bibi,Imóvel 739 em Jardins,1947677,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+740,Moema,Imóvel 740 em Vila Mariana,924521,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+741,Jardins,Imóvel 741 em Jardins,450818,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+742,Itaim Bibi,Imóvel 742 em Jardins,1885234,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+743,Jardins,Imóvel 743 em Jardins,1609156,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+744,Vila Mariana,Imóvel 744 em Moema,1059038,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+745,Itaim Bibi,Imóvel 745 em Vila Mariana,425046,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+746,Pinheiros,Imóvel 746 em Vila Mariana,2695231,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+747,Moema,Imóvel 747 em Vila Mariana,1511284,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+748,Jardins,Imóvel 748 em Pinheiros,2258596,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+749,Vila Mariana,Imóvel 749 em Itaim Bibi,420017,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+750,Vila Mariana,Imóvel 750 em Pinheiros,1339029,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+751,Pinheiros,Imóvel 751 em Pinheiros,1989520,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+752,Moema,Imóvel 752 em Jardins,2099321,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+753,Moema,Imóvel 753 em Vila Mariana,981179,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+754,Itaim Bibi,Imóvel 754 em Itaim Bibi,2445030,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+755,Vila Mariana,Imóvel 755 em Itaim Bibi,2621280,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+756,Pinheiros,Imóvel 756 em Pinheiros,881996,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+757,Pinheiros,Imóvel 757 em Jardins,1031925,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+758,Pinheiros,Imóvel 758 em Moema,869581,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+759,Itaim Bibi,Imóvel 759 em Itaim Bibi,629876,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+760,Vila Mariana,Imóvel 760 em Moema,731565,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+761,Pinheiros,Imóvel 761 em Pinheiros,401803,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+762,Pinheiros,Imóvel 762 em Pinheiros,2574706,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+763,Vila Mariana,Imóvel 763 em Vila Mariana,726365,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+764,Jardins,Imóvel 764 em Pinheiros,340473,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+765,Itaim Bibi,Imóvel 765 em Itaim Bibi,2692867,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+766,Vila Mariana,Imóvel 766 em Jardins,1662314,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+767,Itaim Bibi,Imóvel 767 em Pinheiros,1341121,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+768,Vila Mariana,Imóvel 768 em Vila Mariana,1455412,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+769,Jardins,Imóvel 769 em Jardins,537684,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+770,Jardins,Imóvel 770 em Moema,863765,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+771,Itaim Bibi,Imóvel 771 em Pinheiros,2768538,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+772,Itaim Bibi,Imóvel 772 em Vila Mariana,903193,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+773,Jardins,Imóvel 773 em Pinheiros,1340843,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+774,Vila Mariana,Imóvel 774 em Vila Mariana,2565919,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+775,Vila Mariana,Imóvel 775 em Itaim Bibi,335067,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+776,Pinheiros,Imóvel 776 em Jardins,643021,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+777,Moema,Imóvel 777 em Itaim Bibi,2992332,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+778,Moema,Imóvel 778 em Vila Mariana,2849201,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+779,Pinheiros,Imóvel 779 em Pinheiros,1498891,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+780,Itaim Bibi,Imóvel 780 em Vila Mariana,2749336,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+781,Itaim Bibi,Imóvel 781 em Pinheiros,1600461,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+782,Vila Mariana,Imóvel 782 em Pinheiros,1464291,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+783,Itaim Bibi,Imóvel 783 em Itaim Bibi,2563962,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+784,Moema,Imóvel 784 em Pinheiros,2070855,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+785,Jardins,Imóvel 785 em Moema,1600334,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+786,Pinheiros,Imóvel 786 em Vila Mariana,2948475,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+787,Itaim Bibi,Imóvel 787 em Itaim Bibi,1262890,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+788,Jardins,Imóvel 788 em Moema,693280,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+789,Jardins,Imóvel 789 em Pinheiros,1358804,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+790,Vila Mariana,Imóvel 790 em Pinheiros,2899660,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+791,Moema,Imóvel 791 em Itaim Bibi,893545,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+792,Pinheiros,Imóvel 792 em Itaim Bibi,720760,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+793,Vila Mariana,Imóvel 793 em Pinheiros,2536979,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+794,Itaim Bibi,Imóvel 794 em Pinheiros,1991896,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+795,Vila Mariana,Imóvel 795 em Moema,1770689,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+796,Vila Mariana,Imóvel 796 em Moema,2519998,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+797,Jardins,Imóvel 797 em Jardins,311976,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+798,Pinheiros,Imóvel 798 em Itaim Bibi,869189,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+799,Pinheiros,Imóvel 799 em Pinheiros,581531,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+800,Moema,Imóvel 800 em Vila Mariana,715541,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+801,Moema,Imóvel 801 em Jardins,589030,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+802,Vila Mariana,Imóvel 802 em Jardins,1283218,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+803,Moema,Imóvel 803 em Jardins,2195709,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+804,Jardins,Imóvel 804 em Moema,518468,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+805,Itaim Bibi,Imóvel 805 em Vila Mariana,1105948,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+806,Itaim Bibi,Imóvel 806 em Itaim Bibi,2099282,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+807,Vila Mariana,Imóvel 807 em Pinheiros,1922258,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+808,Vila Mariana,Imóvel 808 em Itaim Bibi,1502361,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+809,Moema,Imóvel 809 em Moema,2718293,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+810,Pinheiros,Imóvel 810 em Itaim Bibi,1839185,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+811,Moema,Imóvel 811 em Moema,2739831,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+812,Pinheiros,Imóvel 812 em Vila Mariana,840854,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+813,Pinheiros,Imóvel 813 em Vila Mariana,1586494,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+814,Vila Mariana,Imóvel 814 em Moema,1710011,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+815,Moema,Imóvel 815 em Vila Mariana,523050,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+816,Itaim Bibi,Imóvel 816 em Itaim Bibi,1592634,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+817,Itaim Bibi,Imóvel 817 em Moema,2192152,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+818,Jardins,Imóvel 818 em Vila Mariana,2588273,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+819,Moema,Imóvel 819 em Moema,2999918,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+820,Jardins,Imóvel 820 em Moema,2411944,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+821,Vila Mariana,Imóvel 821 em Jardins,815958,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+822,Pinheiros,Imóvel 822 em Jardins,784648,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+823,Itaim Bibi,Imóvel 823 em Vila Mariana,978068,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+824,Moema,Imóvel 824 em Itaim Bibi,504897,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+825,Jardins,Imóvel 825 em Itaim Bibi,1449191,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+826,Itaim Bibi,Imóvel 826 em Itaim Bibi,2669605,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+827,Itaim Bibi,Imóvel 827 em Jardins,1582821,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+828,Vila Mariana,Imóvel 828 em Moema,1817904,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+829,Itaim Bibi,Imóvel 829 em Itaim Bibi,2290938,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+830,Itaim Bibi,Imóvel 830 em Moema,1381724,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+831,Jardins,Imóvel 831 em Vila Mariana,954351,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+832,Vila Mariana,Imóvel 832 em Itaim Bibi,2708954,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+833,Itaim Bibi,Imóvel 833 em Pinheiros,2762497,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+834,Itaim Bibi,Imóvel 834 em Jardins,1359773,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+835,Vila Mariana,Imóvel 835 em Itaim Bibi,320871,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+836,Vila Mariana,Imóvel 836 em Itaim Bibi,708917,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+837,Jardins,Imóvel 837 em Pinheiros,1057124,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+838,Vila Mariana,Imóvel 838 em Jardins,2972439,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+839,Moema,Imóvel 839 em Jardins,320661,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+840,Vila Mariana,Imóvel 840 em Moema,793794,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+841,Jardins,Imóvel 841 em Jardins,2968395,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+842,Moema,Imóvel 842 em Jardins,1335715,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+843,Jardins,Imóvel 843 em Jardins,1860757,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+844,Vila Mariana,Imóvel 844 em Moema,2109678,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+845,Pinheiros,Imóvel 845 em Vila Mariana,2711302,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+846,Moema,Imóvel 846 em Jardins,558133,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+847,Jardins,Imóvel 847 em Itaim Bibi,1314662,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+848,Jardins,Imóvel 848 em Itaim Bibi,2055025,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+849,Jardins,Imóvel 849 em Itaim Bibi,2651480,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+850,Moema,Imóvel 850 em Moema,2728098,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+851,Moema,Imóvel 851 em Vila Mariana,1343091,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+852,Jardins,Imóvel 852 em Jardins,1270019,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+853,Moema,Imóvel 853 em Vila Mariana,2431088,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+854,Moema,Imóvel 854 em Jardins,1716551,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+855,Moema,Imóvel 855 em Vila Mariana,816597,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+856,Pinheiros,Imóvel 856 em Moema,1640313,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+857,Itaim Bibi,Imóvel 857 em Jardins,2016027,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+858,Moema,Imóvel 858 em Jardins,721124,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+859,Vila Mariana,Imóvel 859 em Itaim Bibi,1932485,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+860,Pinheiros,Imóvel 860 em Jardins,350251,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+861,Moema,Imóvel 861 em Itaim Bibi,1105402,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+862,Pinheiros,Imóvel 862 em Pinheiros,2488906,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+863,Jardins,Imóvel 863 em Vila Mariana,1133946,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+864,Itaim Bibi,Imóvel 864 em Pinheiros,1419925,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+865,Pinheiros,Imóvel 865 em Itaim Bibi,1540332,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+866,Moema,Imóvel 866 em Pinheiros,340307,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+867,Jardins,Imóvel 867 em Vila Mariana,2068940,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+868,Vila Mariana,Imóvel 868 em Vila Mariana,2778166,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+869,Pinheiros,Imóvel 869 em Jardins,1037844,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+870,Vila Mariana,Imóvel 870 em Jardins,2432725,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+871,Jardins,Imóvel 871 em Pinheiros,1486814,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+872,Pinheiros,Imóvel 872 em Itaim Bibi,2815899,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+873,Pinheiros,Imóvel 873 em Vila Mariana,2531529,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+874,Pinheiros,Imóvel 874 em Itaim Bibi,1302613,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+875,Moema,Imóvel 875 em Itaim Bibi,2223099,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+876,Jardins,Imóvel 876 em Pinheiros,2099426,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+877,Vila Mariana,Imóvel 877 em Itaim Bibi,2766321,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+878,Vila Mariana,Imóvel 878 em Vila Mariana,912612,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+879,Jardins,Imóvel 879 em Pinheiros,636264,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+880,Jardins,Imóvel 880 em Itaim Bibi,2428018,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+881,Itaim Bibi,Imóvel 881 em Jardins,2361351,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+882,Itaim Bibi,Imóvel 882 em Jardins,1935615,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+883,Pinheiros,Imóvel 883 em Moema,2525176,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+884,Moema,Imóvel 884 em Itaim Bibi,1356521,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+885,Itaim Bibi,Imóvel 885 em Pinheiros,1287374,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+886,Moema,Imóvel 886 em Itaim Bibi,427489,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+887,Moema,Imóvel 887 em Vila Mariana,334209,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+888,Itaim Bibi,Imóvel 888 em Vila Mariana,1671773,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+889,Vila Mariana,Imóvel 889 em Jardins,407858,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+890,Moema,Imóvel 890 em Moema,2392915,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+891,Itaim Bibi,Imóvel 891 em Vila Mariana,1339513,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+892,Itaim Bibi,Imóvel 892 em Vila Mariana,466887,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+893,Itaim Bibi,Imóvel 893 em Pinheiros,1845417,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+894,Jardins,Imóvel 894 em Jardins,301537,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+895,Itaim Bibi,Imóvel 895 em Moema,816131,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+896,Pinheiros,Imóvel 896 em Moema,1330800,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+897,Jardins,Imóvel 897 em Jardins,2624843,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+898,Jardins,Imóvel 898 em Vila Mariana,1795878,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+899,Itaim Bibi,Imóvel 899 em Jardins,2391654,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+900,Jardins,Imóvel 900 em Vila Mariana,2600200,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+901,Jardins,Imóvel 901 em Vila Mariana,1211279,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+902,Vila Mariana,Imóvel 902 em Jardins,818702,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+903,Vila Mariana,Imóvel 903 em Moema,1489563,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+904,Pinheiros,Imóvel 904 em Itaim Bibi,1790484,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+905,Moema,Imóvel 905 em Moema,431930,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+906,Vila Mariana,Imóvel 906 em Pinheiros,375856,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+907,Moema,Imóvel 907 em Itaim Bibi,2050635,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+908,Jardins,Imóvel 908 em Jardins,419540,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+909,Vila Mariana,Imóvel 909 em Jardins,1654769,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+910,Itaim Bibi,Imóvel 910 em Itaim Bibi,688877,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+911,Itaim Bibi,Imóvel 911 em Vila Mariana,2413724,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+912,Itaim Bibi,Imóvel 912 em Pinheiros,2493054,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+913,Pinheiros,Imóvel 913 em Moema,2779550,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+914,Moema,Imóvel 914 em Jardins,2367996,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+915,Itaim Bibi,Imóvel 915 em Moema,1429277,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+916,Vila Mariana,Imóvel 916 em Moema,2950387,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+917,Jardins,Imóvel 917 em Moema,505983,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+918,Itaim Bibi,Imóvel 918 em Itaim Bibi,2330463,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+919,Pinheiros,Imóvel 919 em Jardins,1350299,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+920,Vila Mariana,Imóvel 920 em Moema,900341,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+921,Itaim Bibi,Imóvel 921 em Moema,2346041,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+922,Vila Mariana,Imóvel 922 em Pinheiros,1493566,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+923,Pinheiros,Imóvel 923 em Pinheiros,2868315,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+924,Jardins,Imóvel 924 em Vila Mariana,1845022,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+925,Vila Mariana,Imóvel 925 em Itaim Bibi,2539042,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+926,Pinheiros,Imóvel 926 em Moema,1652373,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+927,Moema,Imóvel 927 em Pinheiros,1294639,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+928,Vila Mariana,Imóvel 928 em Itaim Bibi,696953,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+929,Vila Mariana,Imóvel 929 em Vila Mariana,2622884,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+930,Itaim Bibi,Imóvel 930 em Pinheiros,311285,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+931,Vila Mariana,Imóvel 931 em Itaim Bibi,1111611,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+932,Pinheiros,Imóvel 932 em Jardins,756826,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+933,Pinheiros,Imóvel 933 em Itaim Bibi,1755574,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+934,Pinheiros,Imóvel 934 em Pinheiros,1783379,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+935,Itaim Bibi,Imóvel 935 em Moema,546546,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+936,Pinheiros,Imóvel 936 em Jardins,872187,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+937,Jardins,Imóvel 937 em Moema,602495,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+938,Vila Mariana,Imóvel 938 em Itaim Bibi,1452034,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+939,Jardins,Imóvel 939 em Jardins,2302456,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+940,Moema,Imóvel 940 em Itaim Bibi,1114190,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+941,Jardins,Imóvel 941 em Itaim Bibi,418503,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+942,Moema,Imóvel 942 em Moema,1665590,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+943,Vila Mariana,Imóvel 943 em Itaim Bibi,655768,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+944,Itaim Bibi,Imóvel 944 em Pinheiros,1986311,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+945,Itaim Bibi,Imóvel 945 em Vila Mariana,1429307,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+946,Pinheiros,Imóvel 946 em Jardins,2129997,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+947,Vila Mariana,Imóvel 947 em Vila Mariana,1803924,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+948,Moema,Imóvel 948 em Pinheiros,2352429,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+949,Moema,Imóvel 949 em Pinheiros,344915,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+950,Itaim Bibi,Imóvel 950 em Jardins,1609283,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+951,Moema,Imóvel 951 em Moema,519403,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+952,Pinheiros,Imóvel 952 em Pinheiros,2110631,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+953,Jardins,Imóvel 953 em Moema,2040803,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+954,Vila Mariana,Imóvel 954 em Vila Mariana,1257863,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+955,Vila Mariana,Imóvel 955 em Pinheiros,1400845,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+956,Pinheiros,Imóvel 956 em Pinheiros,2452053,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+957,Moema,Imóvel 957 em Pinheiros,1848413,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+958,Pinheiros,Imóvel 958 em Vila Mariana,2049612,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+959,Moema,Imóvel 959 em Itaim Bibi,2190643,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+960,Itaim Bibi,Imóvel 960 em Moema,1583146,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+961,Vila Mariana,Imóvel 961 em Jardins,510203,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+962,Itaim Bibi,Imóvel 962 em Pinheiros,1015746,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+963,Jardins,Imóvel 963 em Vila Mariana,2514975,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+964,Itaim Bibi,Imóvel 964 em Jardins,868246,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+965,Moema,Imóvel 965 em Jardins,1111339,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+966,Pinheiros,Imóvel 966 em Jardins,1668384,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+967,Pinheiros,Imóvel 967 em Pinheiros,2211640,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+968,Vila Mariana,Imóvel 968 em Jardins,1962585,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+969,Pinheiros,Imóvel 969 em Moema,2020135,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+970,Jardins,Imóvel 970 em Moema,721033,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+971,Moema,Imóvel 971 em Itaim Bibi,1595596,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+972,Jardins,Imóvel 972 em Vila Mariana,1750446,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+973,Vila Mariana,Imóvel 973 em Itaim Bibi,2217674,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+974,Pinheiros,Imóvel 974 em Itaim Bibi,2562324,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+975,Vila Mariana,Imóvel 975 em Vila Mariana,771643,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+976,Pinheiros,Imóvel 976 em Itaim Bibi,1111650,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+977,Pinheiros,Imóvel 977 em Vila Mariana,1433590,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+978,Itaim Bibi,Imóvel 978 em Vila Mariana,2694421,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+979,Moema,Imóvel 979 em Vila Mariana,2971612,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+980,Pinheiros,Imóvel 980 em Jardins,894804,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+981,Pinheiros,Imóvel 981 em Moema,2363870,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+982,Vila Mariana,Imóvel 982 em Vila Mariana,2384528,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+983,Pinheiros,Imóvel 983 em Jardins,1735455,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+984,Itaim Bibi,Imóvel 984 em Pinheiros,2639623,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+985,Vila Mariana,Imóvel 985 em Vila Mariana,2380935,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+986,Itaim Bibi,Imóvel 986 em Moema,393028,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+987,Itaim Bibi,Imóvel 987 em Itaim Bibi,2114732,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+988,Pinheiros,Imóvel 988 em Moema,2012755,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+989,Moema,Imóvel 989 em Vila Mariana,1337460,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+990,Itaim Bibi,Imóvel 990 em Pinheiros,1391719,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+991,Moema,Imóvel 991 em Pinheiros,501120,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+992,Jardins,Imóvel 992 em Moema,1642596,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+993,Pinheiros,Imóvel 993 em Moema,2442258,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+994,Pinheiros,Imóvel 994 em Jardins,2501900,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+995,Itaim Bibi,Imóvel 995 em Jardins,1558209,"luxo,vista,cobertura",Apartamento bem localizado com excelente infraestrutura.
+996,Jardins,Imóvel 996 em Pinheiros,1872360,"metro,praticidade",Apartamento bem localizado com excelente infraestrutura.
+997,Itaim Bibi,Imóvel 997 em Itaim Bibi,1528471,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+998,Pinheiros,Imóvel 998 em Itaim Bibi,543914,"familia,seguranca",Apartamento bem localizado com excelente infraestrutura.
+999,Pinheiros,Imóvel 999 em Vila Mariana,973921,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.
+1000,Vila Mariana,Imóvel 1000 em Itaim Bibi,401014,"varanda,piscina,academia",Apartamento bem localizado com excelente infraestrutura.

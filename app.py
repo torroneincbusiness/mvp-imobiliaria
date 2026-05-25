@@ -1,5 +1,7 @@
 import streamlit as st
-from backend import qualificar_lead, recomendar_imoveis, estoque
+from backend import qualificar_lead, recomendar_imoveis, ESTOQUE
+
+# Restante do seu código segue igual...
 
 # --- OTIMIZAÇÃO: CACHE ---
 # O cache processa apenas uma vez por mensagem, economizando API
